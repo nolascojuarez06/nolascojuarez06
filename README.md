@@ -30,7 +30,7 @@
 
 ## 💬 Let's talk
 
-Always excited to meet new people, share ideas, and collaborate on projects.
+Always excited to meet other developers, share ideas, and collaborate on projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/franolasco)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:nolasco.juarez06@gmail.com)
