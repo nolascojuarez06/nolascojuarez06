@@ -1,9 +1,10 @@
 # Hey, I'm Francisco Nolasco! 👋
 
-🎓 [Computer Engineering] student at [UNAM - School of Engineering] in [Mexico City].
+🎓 <b>Computer Engineering</b> student at <b>UNAM - School of Engineering</b> in <b>Mexico City</b>.
 <!-- 💼 Currently [job or internship]. -->
-🔭 Interested in [algorithms, cybersecurity, problem-solving, and science].
-💡 Always willing to explore [areas of CS].
+🔭 Interested in <b>algorithms, cybersecurity, problem-solving, and science</b>.
+
+💡 Always willing to explore <b>areas of CS</b>.
 
 ## 💻 Programming Languages
 
@@ -29,8 +30,10 @@
 
 ## 💬 Let's talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franolasco)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nolasco.juarez06@gmail.com)
+Always excited to meet new people, share ideas, and collaborate on projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/franolasco)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:nolasco.juarez06@gmail.com)
 
 <!--
 **nolascojuarez06/nolascojuarez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
